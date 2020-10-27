@@ -1,6 +1,6 @@
 # ACME-Customers-JSF-JPA-Bootstrap
  
-1.Use JSF in conjunction with new EE components: EJBs and JPA
+1.Use JSF in conjunction with new EE components: EJBs and JPA<br/>
 2.Create a Model class for JPA with all appropriate mappings
 3.Use a JSF @ViewScopedManaged Bean
 4.Add Validation to JSF Views
